@@ -2,7 +2,7 @@
 ![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
 <h1 align="center">Hi 👋, I'm Hana</h1>
-<h3 align="center">AI Engineer & Open-Source Enthusiast</h3>
+<h3 align="center">AI Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://metaexchanges.ca/wp-content/uploads/2023/07/gif-code.gif">
 
 - 💬 I'm passionate about **Python, Machine Learning, NLP, Bioinformatics, SQL, and Computer Vision**, and building advanced **RAG-based systems**. Feel free to ask me anything!
